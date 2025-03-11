@@ -1,0 +1,7 @@
+# ignore maven build directories
+target/
+# ignore IntelliJ configuration files
+.idea/
+*.iml
+*.ipr
+*.iws
